@@ -1,4 +1,4 @@
-<h1 align = "center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&color=9b30ff&center=true&vCenter=true&random=false&width=635&height=50&lines=Olá!+Me+chamo+Mirella.;Sou+Desenvolvedora+Full+Stack;" alt="Typing SVG;"/></a></h1>
+<h1 align = "center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&color=9b30ff&center=true&vCenter=true&random=false&width=635&height=50&lines=Olá!+Me+chamo+Mirella.;Desenvolvedora+Full+Stack;" alt="Typing SVG;"/></a></h1>
 <div>
   <h2>Sobre mim</h2>
 💻| Desenvolvedora Full Stack;<br>
