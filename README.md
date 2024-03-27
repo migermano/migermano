@@ -6,7 +6,7 @@
 💻|Desenvolvedora Full Stack;<br>
 📚| Cursando atualmente Analise e Desenvolvimento de Sistemas na FIAP;<br>
 📱| Focando atualmente em Desenvolvimento web;<br>
-🧠| Tenho certificações e realizei formações na área de tecnologia, tanto pelo SENAI quanto pelas plataformas Alura e Udemy.<br>
+🧠| Certificações e formações na área de tecnologia, tanto pelo SENAI quanto pelas plataformas Alura e Udemy.<br>
 </div>
 
 <div align="center">
